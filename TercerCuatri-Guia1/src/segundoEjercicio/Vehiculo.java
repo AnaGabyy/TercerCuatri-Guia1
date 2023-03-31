@@ -1,4 +1,4 @@
-package cuartoEjercicio;
+package segundoEjercicio;
 
 public abstract class Vehiculo {
 
