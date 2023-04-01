@@ -1,7 +1,5 @@
 package primerEjercicio;
 
-import java.util.Date;
-
 public abstract class Empleado {
 
     private String nombre;
