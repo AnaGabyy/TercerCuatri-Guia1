@@ -22,7 +22,7 @@ public class Sofa extends Mueble{
 
         }
 
-        return "El sofá de " + getTipoMaterial() + " tiene un precio de: " +  precio + " $";
+        return "El sofá de " + getTipoMaterial() + " tiene un precio de: " +  precio + "$";
 
     }
 }

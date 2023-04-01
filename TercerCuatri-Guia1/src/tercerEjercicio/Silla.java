@@ -22,7 +22,7 @@ public class Silla extends Mueble{
 
         }
 
-        return "La silla de " + getTipoMaterial() + " tiene un precio de " +  precio + " $";
+        return "La silla de " + getTipoMaterial() + " tiene un precio de " +  precio + "$";
 
     }
 }

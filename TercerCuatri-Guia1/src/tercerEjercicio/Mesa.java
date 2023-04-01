@@ -22,7 +22,7 @@ public class Mesa extends Mueble{
 
         }
 
-        return "La mesa de " + getTipoMaterial() + " tiene un precio de " +  precio + " $";
+        return "La mesa de " + getTipoMaterial() + " tiene un precio de " +  precio + "$";
 
     }
 
